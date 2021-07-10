@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lesson02.vcxproj, Lesson03.vcxproj, Lesson04.vcxproj, test.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Demo.cpp
+C:\GLP\kamar\kamar\vs\kamar\Demo.cpp(199,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\GLP\kamar\kamar\vs\kamar\Demo.cpp(311,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'SOIL.lib(image_DXT.obj)' or at 'C:\GLP\kamar\kamar\vs\kamar\Debug\vc110.pdb'; linking object as if no debug info
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB '' was not found with 'SOIL.lib(image_helper.obj)' or at ''; linking object as if no debug info
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'SOIL.lib(stb_image_aug.obj)' or at 'C:\GLP\kamar\kamar\vs\kamar\Debug\vc110.pdb'; linking object as if no debug info
+  kamar.vcxproj -> C:\GLP\kamar\kamar\vs\kamar\Debug\kamar.exe
